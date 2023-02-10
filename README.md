@@ -1,6 +1,12 @@
 # superhero
 Create a superhero hunter app using only vanilla javascript.
+
+
+
 Application flow
+
+
+
 Start searching for you favourite hero by typing into the search bar
 You will suggestions as you type
 Click on your favourite heros name from the suggestions to see an in detail info about the selected super hero
